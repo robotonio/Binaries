@@ -5,6 +5,10 @@
 ## Organisation name: ROBOTONIO 
 ## Country: Greece
 
+# Source files for 1st part (collect data from ISS): project/part1
+# Source files for 2nd part (NDVI): project/part2
+
+
 # 1. Introduction  
 Plants are an essential resource - we rely on them for food, water, medicine, the air we breathe, habitat, climate, and more. As trees grow, they help stop climate change by removing carbon dioxide from the air, storing carbon in the trees and soil, and releasing oxygen into the atmosphere. 
 In recent years, we have constantly been following news about the disasters in the forests, primarily due to human activities (e.g. logging, deforestation, etc.) and natural disasters, such as fires. But we are not talking about the positive actions of people, such as the efforts to reforest areas (especially in large Eastern countries such as China and India), the conversion of barren lands and arable land and the advancement of technology which allows cultivation areas all year round. But what is the final balance in the annual change of green on our planet? This question is the basis of our idea. 
